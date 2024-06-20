@@ -1,5 +1,5 @@
 
-const ErrorComponent = ({ code, message }) => {
+export const ErrorComponent = ({ code, message }) => {
   let displayMessage;
 
   switch (code) {
@@ -45,4 +45,3 @@ const ErrorComponent = ({ code, message }) => {
   );
 };
 
-export default ErrorComponent;
