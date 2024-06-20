@@ -1,0 +1,136 @@
+{
+	"status": "ok",
+	"totalResults": 10,
+	"articles": [
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "South China Sea: Filipino soldiers fought off Chinese 'with bare hands'",
+			"description": "Chinese personnel armed with swords are accused of ramming Filipino boats in disputed waters.",
+			"url": "https://www.bbc.co.uk/news/articles/cgee719kqpdo",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1c4b/live/9a035eb0-2e9d-11ef-bd69-074385dc5bff.jpg",
+			"publishedAt": "2024-06-20T02:37:13.918612Z",
+			"content": "Philippines soldiers used their \"bare hands\" to fight off Chinese coast guard personnel armed with swords, spears and knives in the disputed South China Sea, the country's top military commander has … [+2181 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Israel and Hezbollah play with fire but neither wants another war",
+			"description": "On Israel's northern border, the line between deterrence and desire for war is getting harder to see.",
+			"url": "https://www.bbc.co.uk/news/articles/cv22wz7e2z2o",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d0c0/live/948794b0-2e66-11ef-90be-b75b34b0bbb2.png",
+			"publishedAt": "2024-06-20T02:37:12.9796533Z",
+			"content": "The war in Gaza is another reason why Israels government might be nervous of opening up a second, much tougher war with Hezbollah at the same time.\r\nBut this month it raised the cap on the number of … [+991 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "North Korea soldiers cross border prompting warning shots from South",
+			"description": "Seoul believes the border violation was not intentional, as North Korea prepares for Putin's visit.",
+			"url": "https://www.bbc.co.uk/news/articles/ckkkvw4xq9wo",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/936b/live/819cff20-2d53-11ef-bdc5-41d7421c2adf.jpg",
+			"publishedAt": "2024-06-20T00:37:13.9650385Z",
+			"content": "About 20-30 soldiers entered the zone by about 20m (65ft), South Korea's Joint Chiefs of Staff (JCS) said in a statement.\r\nIt's the second crossing incident in two weeks, with Seoul saying North Kore… [+1088 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Boeing 737 Max crash victims ask US to impose $25bn fine",
+			"description": "The families of victims of two 737 Max crashes also call for prosecutions a day after apology by chief executive.",
+			"url": "https://www.bbc.co.uk/news/articles/cw00l7d2ljno",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/43e1/live/565d1c20-2e87-11ef-a044-9d4367d5b599.jpg",
+			"publishedAt": "2024-06-19T23:37:13.7936205Z",
+			"content": "Mr Calhoun acknowledged the mistakes the company made and said it had \"learned\" from the past. He also acknowledged that the company had retaliated against whistleblowers but said he has \"listened\" t… [+899 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Justin Timberlake's lawyer to 'vigorously' defend him",
+			"description": "The singer was arrested for running a stop sign and failing to stay on the right side of the road.",
+			"url": "https://www.bbc.co.uk/news/articles/c511weqy9g4o",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148b/live/0bb562b0-2e76-11ef-a044-9d4367d5b599.png",
+			"publishedAt": "2024-06-19T20:52:15.870913Z",
+			"content": "\"I look forward to vigorously defending Mr Timberlake on these allegations,\" his lawyer Edward Burke Jr told PA Media news agency on Wednesday.\r\n\"I will have a lot to say at the appropriate time but … [+1392 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Louisiana orders Ten Commandments poster in every classroom",
+			"description": "Law requires a poster in all public schools classrooms, up to university level, by 2025.",
+			"url": "https://www.bbc.co.uk/news/articles/cp66xdxj0l3o",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bab0/live/969233f0-2e75-11ef-ba8d-a9b9bfa74cb0.jpg",
+			"publishedAt": "2024-06-19T20:37:19.1532241Z",
+			"content": "Louisiana has become the first US state to order that every public school classroom up to university level must display a poster of the Ten Commandments. \r\nThe Republican-backed measure signed into l… [+1806 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Canada lists Iran's Revolutionary Guards as a terrorist entity",
+			"description": "It is the second North American country to do so after the US, which made a similar move in 2019.",
+			"url": "https://www.bbc.co.uk/news/articles/cn00nd1n4y2o",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e6b7/live/13b0a610-2e75-11ef-ba8d-a9b9bfa74cb0.jpg",
+			"publishedAt": "2024-06-19T20:07:17.7310054Z",
+			"content": "Canada has listed Irans Islamic Revolutionary Guard Corps (IRGC) as a terrorist organisation, after years of pressure from opposition legislators and some members of the Iranian diaspora.\r\nAnnouncing… [+2987 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "North Korea: Putin and Kim pledge mutual help against 'aggression'",
+			"description": "Kim Jong Un says the agreement takes their relationship to a \"new, high level of alliance\".",
+			"url": "https://www.bbc.co.uk/news/articles/ceddqkqzd5wo",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/774f/live/c9b15ae0-2e11-11ef-84ac-a74c8743f290.jpg",
+			"publishedAt": "2024-06-19T16:52:13.2818046Z",
+			"content": "Vladimir Putin and Kim Jong Un have signed an agreement pledging that Russia and North Korea will help each other in the event of \"aggression\" against either country.\r\nThe Russian president made the … [+2350 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "China is the true power in Putin and Kim’s budding friendship",
+			"description": "There are signs President Xi disapproves of his allies' alliance, the BBC's China correspondent says.",
+			"url": "https://www.bbc.co.uk/news/articles/c1vv196pe3eo",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ce48/live/3b1127f0-2e31-11ef-a044-9d4367d5b599.png",
+			"publishedAt": "2024-06-19T15:52:20.841061Z",
+			"content": "While he has not condemned the invasion of Ukraine, he has so far failed to provide significant military assistance to Russia. And during the meeting in May, his cautious rhetoric was in contrast to … [+1663 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "UK’s richest family on trial in Switzerland for human trafficking",
+			"description": "The charges all relate to the Hinduja family's practice of importing servants from India.",
+			"url": "https://www.bbc.co.uk/news/articles/cm55gzvv1dro",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c96f/live/19692fa0-2d67-11ef-90be-b75b34b0bbb2.jpg",
+			"publishedAt": "2024-06-18T13:52:20.5842424Z",
+			"content": "Although a financial settlement over exploitation was reached last week, the Hindujas remain on trial for trafficking, which is a serious criminal offence in Switzerland. They deny the charges.\r\nThis… [+995 chars]"
+		}
+	]
+}
